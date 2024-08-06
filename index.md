@@ -13,3 +13,8 @@
 def greet(name: str) -> str:
   return f"Hello, {name}"
 ```
+
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
